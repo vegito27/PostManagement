@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=locationweb/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bharath.location.util{ReportUtil.java[ReportUtil" modifiers="513" timestamp="1593703109000"/>
+    <typeInfo handle="=flightreservation2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.rishabh.flightreservation.services{SecurityServices.java[SecurityServices" modifiers="513" timestamp="1594185703000"/>
+    <typeInfo handle="=flightreservation2/\/Users\/rishabhtripathii\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.3.1.RELEASE\/spring-data-jpa-2.3.1.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.3.1.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1593061888000"/>
+</typeInfoHistroy>
